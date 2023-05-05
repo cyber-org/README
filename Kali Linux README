@@ -1,0 +1,14 @@
+Here are some tips and tricks for the Kali Linux Virtual Machine on the CYBER.ORG Range
+
+1 - The password for the kali and root user is "password"
+2 - Do not save any important data on this virtual machine, they reset every time and all data will be erased
+3 - You can copy and paste into the range from your local machine by pressing CTRL+ALT+SHIFT to access the clipboard
+4 - All the VMs are sandboxed by classroom, do note that all your VMs are on the same network
+5 - You can start the DVWA Application with the following command in the terminal: DVWA_start
+6 - You can stop the DVWA Application with the following command in the terminal: DVWA_stop
+7 - You can start the Juice Shop Application with the following command in the terminal: JuiceShop_start
+8 - CYBER.ORG Curriculum files are located here on the Kali VM: /home/kali/CourseFiles
+9 - Please note the VM will terminate somewhere between 2-3 hours after its launch
+10 - All K-12 Educators in the United States can sign-up for free curriculum to use with the CYBER.ORG Range here: https://cyber.org/form/curricula-sign-up
+
+Any questions about the Kali Linux VM can be emailed to apps@cyber.org
