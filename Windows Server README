@@ -1,0 +1,12 @@
+Here are some tips and tricks for the Windows Server 22 Virtual Machine on the CYBER.ORG Range
+
+1 - The default username is Administrator
+1 - The password for the Administrator account is "password"
+2 - Do not save any important data on this virtual machine, they reset every time and all data will be erased
+3 - You can copy and paste into the range from your local machine by pressing CTRL+ALT+SHIFT to access the clipboard
+4 - All the VMs are sandboxed by classroom, do note that all your VMs are on the same network
+5 - CYBER.ORG Networking course files are located here on the VM: C:\Users\Administrator\Documents\Networking Files
+6 - Please note the VM will terminate somewhere between 2-3 hours after its launch
+7 - All K-12 Educators in the United States can sign-up for free curriculum to use with the CYBER.ORG Range here: https://cyber.org/form/curricula-sign-up
+
+Any questions about the Windows Server 22 VM can be emailed to apps@cyber.org
